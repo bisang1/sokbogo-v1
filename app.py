@@ -3,7 +3,7 @@ import streamlit as st
 st.set_page_config(page_title="속보고(Sokbogo) 콘텐츠 생성기", page_icon="🫁", layout="wide")
 
 st.title("🔬 속보고(Sokbogo) 유튜브 쇼츠 제작 자동화 도구")
-st.markdown("임상병리사의 전문성이 담긴 **3D 미니어처 클레이 디오라마 건강 콘텐츠**를 자동으로 생성합니다.")
+st.markdown("전문성이 담긴 **3D 미니어처 클레이 디오라마 건강 콘텐츠**를 자동으로 생성합니다.")
 st.divider()
 
 organ = st.text_input(
@@ -62,7 +62,7 @@ clean lab lighting, pastel toy-world palette, precise mini props, shallow depth 
 이 균형이 깨지면 피로감이나 이상 신호가 먼저 나타날 수 있어요.
 물을 충분히 마시고, 짠 음식과 가공식품을 줄이고, 수면 리듬을 일정하게 유지하는 것만으로도 {organ} 건강에 큰 도움이 됩니다.
 오늘도 내 몸의 신호를 가볍게 넘기지 말고, 작은 습관부터 실천해 보세요.
-속보고와 함께라면 건강 정보, 더 정확하고 더 쉽게 이해할 수 있습니다."""
+김앤리 보고서였습니다."""
 
     title = f"내 몸속 미니어처 연구소! {organ} 건강의 핵심을 30초에 🔬🐱"
     hashtags = f"#속보고 #{organ} #건강정보 #임상병리 #인체해부 #의학상식 #shorts"
