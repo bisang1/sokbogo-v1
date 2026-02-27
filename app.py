@@ -5,7 +5,7 @@ st.set_page_config(page_title="김앤리 보고서(Kim & Lee Report) 콘텐츠 �
 
 # 2. 제목 및 스타일 설정
 st.title("🔬 김앤리 보고서(Kim & Lee Report) 유튜브 쇼츠 제작 자동화 도구")
-st.markdown("전문성이 담긴 **3D 미니어처 클레이 디오라마 건강 콘텐츠**를 자동으로 생성합니다.")
+st.markdown("전문성이 담긴 **흰색 고양이 디오라마 건강 콘텐츠**를 자동으로 생성합니다.")
 st.divider()
 
 # 3. 사용자 입력
